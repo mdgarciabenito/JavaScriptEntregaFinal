@@ -1,0 +1,38 @@
+*{box-sizing: border-box;}
+
+main{
+    margin-bottom: 5rem;
+    .navbar-brand{
+        margin-top: 2rem;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        color: black;}
+    .cajaprincipal{
+        border: solid 1px black;
+        width: 15rem;
+        font-weight: bold;
+        box-shadow: 10px 10px 5px 0px gray;
+        background-color: white;
+        margin: 1rem;
+        padding: 1rem;
+        text-align: center;
+    }
+    .contacto{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .btn{
+        margin: 1rem;
+    }
+    .tituloquienessomos{
+        font-weight: bold;
+        font-size: 50px;
+        text-align: center;
+    }
+    .textoquienessomos{
+        font-size: 20px;
+        text-align: center;
+    }
+    }

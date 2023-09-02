@@ -1,0 +1,22 @@
+*{box-sizing: border-box;}
+
+footer {
+    padding: 1rem;
+    background-image: linear-gradient(to top, #e79417, #FFB84C);
+    border-top: solid 1px yellow;
+    bottom: 0;
+    .redessociales{
+        background-color: white;
+    }
+    .Copyright{
+        text-align: center;
+        margin: 1rem;
+    }
+    .btn{
+        margin: 1rem;
+    }
+    img{
+        height: 50px;
+        width: 50px;
+    }
+}
